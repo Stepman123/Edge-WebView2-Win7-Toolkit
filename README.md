@@ -60,4 +60,4 @@ Installing and maintaining modern Edge or WebView2 on Windows 7 poses several te
    * The script scans and unpacks the installer.
    * Choose your runner mode (Native 109, VxKex, or Second System).
    * Edge will deploy silently to `C:\Program Files (x86)\`.
-4. Run option `[3]` to register and fix the WebView2 Runtime.
+4. Run option `[]` to register and fix the WebView2 Runtime.
