@@ -4,6 +4,8 @@
 
 An interactive automation tool for system-level deployment, WebView2 Runtime registration, and complete clean uninstallation of **Microsoft Edge** (both official final build 109 and modern builds **110–153+**) on **Windows 7 SP1 x64**.
 
+<img width="597" height="392" alt="screen-en" src="https://github.com/user-attachments/assets/88b4ff9e-71bb-49cd-8165-7bd350fd4829" />
+
 ---
 
 ## 📌 The Problem & Purpose
